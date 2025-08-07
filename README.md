@@ -3,7 +3,7 @@
 🌐 Passionate about Web3 and decentralized apps.<br/>
 🔗 Exploring blockchain and smart contract development.<br/>
 📊 Skilled in data analysis and insight generation.<br/>
-[My Potfolio](https://riskie.netify.app/)
+[My Potfolio](https://riskie.netify.app)
 
 
 
